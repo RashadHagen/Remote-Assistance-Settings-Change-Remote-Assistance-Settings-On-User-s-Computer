@@ -53,6 +53,8 @@ This project goes over how to change Remote Assistance Settings on a User’s co
   </tr>
 </table>
 
+<br /><br />
+
 
 <div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Allow Remote Assistance invitations to be sent from this.</b></span>  
@@ -64,6 +66,8 @@ This project goes over how to change Remote Assistance Settings on a User’s co
   </tr>
 </table>
 
+<br /><br />
+
 
 <div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: Administrator Username and Password.</b></span>  
@@ -74,6 +78,8 @@ This project goes over how to change Remote Assistance Settings on a User’s co
     <td><img src="https://imgur.com/zDHhsJa.png" height="100%" width="100%" /></td>
   </tr>
 </table>
+
+<br /><br />
 
 
 <div style="text-align:center;">
